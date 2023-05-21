@@ -58,4 +58,5 @@ Read or watch:
 ---
 
 ## Author
-* **Bienvenu gbeti** - [Bienevnu](https://github.com/gbetibienvenu)
+* **Bienvenu Gbeti** - [Bienvenu](https://github.com/gbetibienvenu)
+* **@Bienvenu** - [@Bienvenu](https://twitter.com/@Bienvenugbeti)
